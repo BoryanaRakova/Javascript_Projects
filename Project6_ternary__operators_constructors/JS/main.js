@@ -5,7 +5,7 @@
     //document.getElementById("Ride").innerHTML= Can_ride + " to ride";
 //}
 
-//Challange #8
+//Challange #8 a random change
 
 
 //function vote_Function(){
